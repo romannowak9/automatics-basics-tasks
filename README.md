@@ -1,2 +1,2 @@
-# PA2
-Zadania realizowane w ramach przedmiotu podstawy automatyki 2
+# Automation Basics
+Automation Basics tasks in Matlab and Simulink
